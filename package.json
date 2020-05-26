@@ -1,0 +1,24 @@
+{
+  "name": "nymarket",
+  "version": "1.0.0",
+  "description": "market place software",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pj131/nymarket.git"
+  },
+  "keywords": [
+    "nodejs",
+    "market"
+  ],
+  "author": "pjie131@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pj131/nymarket/issues"
+  },
+  "homepage": "https://github.com/pj131/nymarket#readme"
+}
